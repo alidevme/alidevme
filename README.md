@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 🔭 I’m currently working on small Java projects that help me apply everything I'm learning. Always learn by doing!
+- 🔭 I’m currently working on small Java projects that help me apply everything I'm learning. Always learn by doing!
 - 🌱 I’m currently learning Java! On the way to earn Oracle Certified Associate, Java SE 8 Programmer Certification! Exciting!!! 😄
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
